@@ -1,0 +1,14 @@
+{
+    "version": "1",
+    "branches": [
+        "*"
+    ],
+    "applications": [
+        {
+            "name": "PK-MultiSig",
+            "slug": "pkMultiSig",
+            "version": "0.0.1",
+            "rootDir": "/apps/pk-multisig"
+        }
+    ]
+}
